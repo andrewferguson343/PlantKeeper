@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantKeeper", "PlantKeeper\PlantKeeper.csproj", "{FCF7E34E-D5E1-4050-9FFA-6CB98F90604F}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantKeeper", "PlantKeeper\PlantKeeper.csproj", "{E9EF6D30-2C6D-4575-862F-D47ADC6F42CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FCF7E34E-D5E1-4050-9FFA-6CB98F90604F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FCF7E34E-D5E1-4050-9FFA-6CB98F90604F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FCF7E34E-D5E1-4050-9FFA-6CB98F90604F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FCF7E34E-D5E1-4050-9FFA-6CB98F90604F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EF6D30-2C6D-4575-862F-D47ADC6F42CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EF6D30-2C6D-4575-862F-D47ADC6F42CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EF6D30-2C6D-4575-862F-D47ADC6F42CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EF6D30-2C6D-4575-862F-D47ADC6F42CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F49630-D48F-4147-9DE0-BD98ACC26296}
 	EndGlobalSection
 EndGlobal
